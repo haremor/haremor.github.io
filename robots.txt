@@ -9,5 +9,4 @@ Disallow: /about.html
 
 User-agent: bingbot 
 Disallow: /test.html
-Disallow: /robots.txtUser-agent: *
-Allow: /
+Disallow: /robots.txt
