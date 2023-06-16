@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Disallow: /main.html
+
+User-agent: Googlebot
+Disallow: /about.html
+
+User-agent: bingbot 
+Disallow: /test.html
+Disallow: /robots.txtUser-agent: *
+Allow: /
